@@ -1,0 +1,6 @@
+{
+  "parent": "entity/chest/chest_double_right",
+  "textures": {
+    "chest": "lolmcv:entity/chest/trapped/dark_oak_right"
+  }
+}

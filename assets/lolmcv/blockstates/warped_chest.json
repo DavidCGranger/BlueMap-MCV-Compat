@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "type=single,facing=north": { "model": "lolmcv:entity/chest/warped", "y": 90 },
+    "type=single,facing=east": { "model": "lolmcv:entity/chest/warped", "y": 180 },
+    "type=single,facing=south": { "model": "lolmcv:entity/chest/warped", "y": 270 },
+    "type=single,facing=west": { "model": "lolmcv:entity/chest/warped" },
+    "type=right,facing=north": {
+      "model": "lolmcv:entity/chest/warped_double_right",
+      "y": 90
+    },
+    "type=right,facing=east": {
+      "model": "lolmcv:entity/chest/warped_double_right",
+      "y": 180
+    },
+    "type=right,facing=south": {
+      "model": "lolmcv:entity/chest/warped_double_right",
+      "y": 270
+    },
+    "type=right,facing=west": { "model": "lolmcv:entity/chest/warped_double_right" },
+    "type=left,facing=north": {
+      "model": "lolmcv:entity/chest/warped_double_left",
+      "y": 90
+    },
+    "type=left,facing=east": {
+      "model": "lolmcv:entity/chest/warped_double_left",
+      "y": 180
+    },
+    "type=left,facing=south": {
+      "model": "lolmcv:entity/chest/warped_double_left",
+      "y": 270
+    },
+    "type=left,facing=west": { "model": "lolmcv:entity/chest/warped_double_left" }
+  }
+}
